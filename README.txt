@@ -1,3 +1,10 @@
+The following repoistory contains the data accompanying the publication:
+
+Hoppe, D., & Rothkopf, C. A. (2019). Multi-step planning of eye movements in visual search. Scientific reports, 9(1), 1-12.
+
+https://www.nature.com/articles/s41598-018-37536-0
+
+
 ----------------------
 - Code
 ----------------------
